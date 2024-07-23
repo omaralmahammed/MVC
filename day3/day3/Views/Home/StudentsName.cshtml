@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "StudentsName";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("ShowStudents", "Data"))
+{
+
+    <label>Student One:</label>
+    <input type="text" name="student1" />
+    <br />
+
+    <label>Student Two:</label>
+    <input type="text" name="student2" />
+    <br />
+
+    <label>Student Three:</label>
+    <input type="text" name="student3" />
+
+    <br />
+
+    <button type="submit" class="btn btn-primary mb-2">Submit</button>
+
+}
+
