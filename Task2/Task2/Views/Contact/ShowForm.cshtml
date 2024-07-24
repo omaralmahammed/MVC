@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "ShowForm";
+    Layout = "~/Views/Shared/_ContactLayout.cshtml";
+}
+
+<div class="border mx-auto my-4 px-3 py-3" px style="width: 600px; height:95%">
+    <label>Name: </label> <input readonly value="@ViewBag.FirstName">
+    <br />    <br />
+
+    <label>ID: </label> <input readonly value="@ViewBag.ID">
+    <br />    <br />
+
+    <label>Gender: </label> <input readonly value="@ViewBag.Gender" />
+    <br />    <br />
+
+    <label>Group: </label> <input readonly value="@ViewBag.selectedGroup" />
+    <br />    <br />
+
+    <label>My Paths:</label>
+    <ol class="list-group list-group-flush">
+        @{
+            foreach (string path in ViewBag.Path)
+            {
+                <li class="list-group-item"> @path </li>
+                ;
+            }
+        }
+    </ol>
+</div>
+
