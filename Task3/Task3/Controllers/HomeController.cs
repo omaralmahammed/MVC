@@ -8,10 +8,7 @@ namespace Task3.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Logout() {
-            Session["is_login"] = false;
-            return RedirectToAction("Index");
-        }
+        
         public ActionResult Index()
         {
             return View();
@@ -36,44 +33,71 @@ namespace Task3.Controllers
             Session["Name"] = form["name"];
 
             string inputEmail = form["email"];
-            string inputPasswords = form["password"];
+            string inputPassword = form["password"];
+
+            //foreach (string email in emails)
+            //{
+            //    if (inputEmail == email)
+            //    {
+            //        Session["is_login"] = true;
+            //        break;
+            //    }
+            //    else
+            //    {
+            //        Session["is_login"] = false;
+
+            //    }
+
+            //}
+
+
+            //foreach (string password in passwords)
+            //{
+            //    if (password == inputPassword)
+            //    {
+            //        Session["is_login"] = true;
+
+            //        return RedirectToAction("Index");
+            //    }
+            //    else
+            //    {
+            //        Session["is_login"] = false;
+
+            //    }
+            //}
 
             foreach (string email in emails)
             {
-                if (inputEmail == email)
+                foreach (string password in passwords)
                 {
-                    Session["is_login"] = true;
-                    break;
-                }
-                else
-                {
-                    Session["is_login"] = false;
+                    if (password == inputPassword && inputEmail == email)
+                    {
+                        Session["is_login"] = true;
 
-                }
+                        return RedirectToAction("Index");
+                    }
+                    else
+                    {
+                        Session["is_login"] = false;
+                        ViewBag.Message = "Invalid Input";
 
-            }
-
-
-            foreach (string password in passwords)
-            {
-                if (password == inputPasswords)
-                {
-                    Session["is_login"] = true;
-
-                    return RedirectToAction("Index");
-                }
-                else
-                {
-                    Session["is_login"] = false;
-
+                    }
                 }
 
             }
+
+
 
             return View();
-
         }
 
-        
+        public ActionResult Logout()
+        {
+
+            Session["is_login"] = false;
+            return RedirectToAction("Index");
+        }
+
+
     }
 }
