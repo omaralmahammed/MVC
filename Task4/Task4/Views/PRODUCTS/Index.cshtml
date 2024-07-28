@@ -38,11 +38,16 @@
             @Html.DisplayFor(modelItem => item.product_price)
         </td>
         <td>
-            <img src="@Url.Content(item.product_image)" width="80" height="80" alt="Alternate Text" />        </td>
+            @*@Html.DisplayFor(modelItem => item.product_image)*@
+
+            <img src="@Url.Content(item.product_image)" width="80" height="80" alt="Alternate Text" />  
+        </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.product_id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.product_id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.product_id })
+            @Html.ActionLink("Edit", "Edit", new { id = item.product_id }) |
+            @Html.ActionLink("Details", "Details", new { id = item.product_id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.product_id })
+            @Html.ActionLink("Omar", "Create", new { id = item.product_id })
+
         </td>
     </tr>
 }
