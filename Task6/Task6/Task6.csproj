@@ -130,8 +130,6 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CodersController.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\USERSController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -220,14 +218,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\USERS\Create.cshtml" />
-    <Content Include="Views\USERS\Delete.cshtml" />
-    <Content Include="Views\USERS\Details.cshtml" />
-    <Content Include="Views\USERS\Edit.cshtml" />
-    <Content Include="Views\USERS\Index.cshtml" />
     <Content Include="Views\Coders\Index.cshtml" />
     <Content Include="Views\Coders\Register.cshtml" />
     <Content Include="Views\Coders\Login.cshtml" />

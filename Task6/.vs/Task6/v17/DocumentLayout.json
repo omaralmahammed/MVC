@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task6\\task6\\controllers\\coderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|solutionrelative:task6\\controllers\\coderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task6\\task6\\views\\coders\\resetpasswordt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|solutionrelative:task6\\views\\coders\\resetpasswordt.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task6\\task6\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|solutionrelative:task6\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task6\\task6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|solutionrelative:task6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPasswordt.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Views\\Coders\\ResetPasswordt.cshtml",
+              "RelativeDocumentMoniker": "Task6\\Views\\Coders\\ResetPasswordt.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Views\\Coders\\ResetPasswordt.cshtml",
+              "RelativeToolTip": "Task6\\Views\\Coders\\ResetPasswordt.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T18:52:37.152Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CodersController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Controllers\\CodersController.cs",
               "RelativeDocumentMoniker": "Task6\\Controllers\\CodersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Controllers\\CodersController.cs",
-              "RelativeToolTip": "Task6\\Controllers\\CodersController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAkwG0AAAASAAAA",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Controllers\\CodersController.cs*",
+              "RelativeToolTip": "Task6\\Controllers\\CodersController.cs*",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAywHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T12:58:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Task6\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Task6\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-29T18:49:58.888Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USER.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Models\\USER.cs",
+              "RelativeDocumentMoniker": "Task6\\Models\\USER.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Models\\USER.cs",
+              "RelativeToolTip": "Task6\\Models\\USER.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvw4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:49:43.631Z",
               "EditorCaption": ""
             }
           ]
