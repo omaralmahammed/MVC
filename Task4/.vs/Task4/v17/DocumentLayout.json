@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task4\\task4\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task4\\task4\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|solutionrelative:task4\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task4\\task4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task4\\task4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04437C3E-FD94-4B2C-B2E0-85C1EF158742}|Task4\\Task4.csproj|solutionrelative:task4\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Task4\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T18:55:07.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-28T18:55:07.001Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Task4\\Views\\PRODUCTS\\Index.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task4\\Task4\\Views\\PRODUCTS\\Index.cshtml",
               "RelativeToolTip": "Task4\\Views\\PRODUCTS\\Index.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-28T08:39:38.189Z",
               "EditorCaption": ""

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\day3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\day3\\day3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|c:\\users\\orange\\desktop\\mvc tasks\\day3\\day3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|solutionrelative:day3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|solutionrelative:day3\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|c:\\users\\orange\\desktop\\mvc tasks\\day3\\day3\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|C:\\Users\\Orange\\Desktop\\MVC Tasks\\day3\\day3\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E008D8B-B43E-4C9C-96D5-CDFDE2F73083}|day3\\day3.csproj|solutionrelative:day3\\views\\home\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "day3\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T11:28:50.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:28:50.211Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "day3\\Views\\Data\\ShowStudents.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T11:25:02.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:25:02.553Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "day3\\Controllers\\DataController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T11:22:09.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:22:09.475Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "day3\\Views\\Home\\Information.cshtml*",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T11:22:20.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:22:20.677Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "day3\\Views\\Home\\StudentsName.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-23T11:20:35.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-23T11:20:35.203Z"
             },
             {
               "$type": "Document",
@@ -109,7 +104,7 @@
               "RelativeDocumentMoniker": "day3\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\day3\\day3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "day3\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDcAAAAcAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-23T11:19:47.668Z",
               "EditorCaption": ""

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|c:\\users\\orange\\desktop\\mvc tasks\\task6\\task6\\controllers\\coderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7299554D-8DE5-4548-B2D6-05C25DF36059}|Task6\\Task6.csproj|solutionrelative:task6\\controllers\\coderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Controllers\\CodersController.cs",
+              "RelativeDocumentMoniker": "Task6\\Controllers\\CodersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC Tasks\\Task6\\Task6\\Controllers\\CodersController.cs",
+              "RelativeToolTip": "Task6\\Controllers\\CodersController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAkwG0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:58:16.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
